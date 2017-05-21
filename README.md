@@ -17,7 +17,7 @@ For students, follow these steps:
 #### My details:
 
 - Excercise: HW4 - TDD
-- Name:  Adi tayri
+- Name:  Adi Tayri
 - ID#: 205530967
 - github username: aditayri
 - Estimation of hours I worked on it: 3
